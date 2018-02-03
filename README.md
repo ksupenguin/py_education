@@ -1,0 +1,2 @@
+Exercises for Python-education from book 'Python Programming for the Absolute Beginner' (by M.Dawson)
+=====================================================================================================
